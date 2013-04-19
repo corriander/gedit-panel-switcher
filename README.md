@@ -33,4 +33,5 @@ Credits
 -------
 
 Flynsarmy for the GEdit3TabSwitch base
+
 Inspiration from Christian Dannie Storgaard for the (deprecated) gedit2 FocusBottomPane plugin.
