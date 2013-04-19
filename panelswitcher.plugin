@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=panelswitcher
+IAge=3
+Name=Panel Switcher
+Description=Use CTRL+Tab to switch between editor and bottom panel
+Authors=Alex Corrie
+Copyright=Copyright © 2013 Alex Corrie
